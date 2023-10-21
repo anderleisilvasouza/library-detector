@@ -1,1 +1,3 @@
-window.onload = () => alert("Hello World")
+function getLibraries(){
+    return "Hello World!"
+}
